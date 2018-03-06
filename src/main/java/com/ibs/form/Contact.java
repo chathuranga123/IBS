@@ -1,4 +1,4 @@
-package com.javatpoint.form;
+package com.ibs.form;
 public class Contact {
 	private String firstname;
 	private String lastname;
