@@ -1,2 +1,5 @@
 <hr/>
-<p>&copy;Copyright  2010-2014 javatpoint.com.</p>
+<div class="w3-row w3-center">
+
+<p>&copy;Copyright IBS.com.</p>
+</div>
