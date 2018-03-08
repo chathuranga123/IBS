@@ -14,7 +14,7 @@
             </p>
          </div>
          <div class="w3-col  l4 m4 s12  w3-center" style="hight:100%">
-            	<form class="w3-container  w3-light-grey">
+            	<form class="w3-container  w3-light-grey" action="login.html">
             		<br/>
             		<div class="w3-row">
             			<img src="${pageContext.request.contextPath}/resources/img/logo/logo.png" style="width:20%" class="w3-round" alt="Norway">
@@ -30,7 +30,7 @@
 					<div class="w3-row">
 						<div class="s8 w3-left-align">forgot password?</div>
 						<div class="s4 w3-right-align">
-							 <input type="button" class="w3-button w3-black" value="Sign In">
+							 <input type="submit" class="w3-button w3-black" value="Sign In">
 						</div>
 					</div>
 					<br/>

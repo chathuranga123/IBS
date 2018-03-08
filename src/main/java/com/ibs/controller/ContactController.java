@@ -19,6 +19,9 @@ public class ContactController {
 	
 	@RequestMapping("/contact")
 	public ModelAndView showContacts() {
+		System.out.println("dsfsdfdsf");
 		return new ModelAndView("contact", "command", new Contact());
 	}
+	
+
 }

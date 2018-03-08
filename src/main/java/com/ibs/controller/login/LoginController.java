@@ -1,4 +1,4 @@
-package com.ibs.login.controller;
+package com.ibs.controller.login;
 
 import org.springframework.context.annotation.Scope;
 import org.springframework.stereotype.Controller;
@@ -10,10 +10,11 @@ import com.ibs.form.Contact;
 @Controller
 @Scope("request")
 public class LoginController {
+
 	
 	@RequestMapping("/login")
-	public ModelAndView showContacts() {
-		return new ModelAndView("contact", "command", new Contact());
+	public ModelAndView login() {
+		return new ModelAndView("home");
 	}
 
 }
