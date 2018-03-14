@@ -1,4 +1,4 @@
-package com.ibs.login.bean;
+package com.ibs.bean.login;
 
 public class LoginBean {
 	

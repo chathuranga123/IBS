@@ -8,5 +8,13 @@
 </head>
 <body>
 	<h1>Welcome to home</h1>
+	<form action="hello1.html">
+	<input type="submit" value="Submit"/>
+
+	
+	
+	</form>
+	<h3>Hello</h3>
+		<h1>${message}</h1>
 </body>
 </html>
