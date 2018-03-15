@@ -17,7 +17,7 @@ public class HomeController {
 	 */
 	public void setUserFavourites(){
 		try{
-			System.out.println("Exception  :");
+			System.out.println("E");
 			//TODO
 		}catch(Exception e){
 			System.out.println("Exception  :"+e);
