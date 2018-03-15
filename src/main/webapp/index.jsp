@@ -4,9 +4,15 @@
 <%@taglib uri="http://www.springframework.org/tags/form" prefix = "form"%>
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
-   <title>IBS</title>
-   <meta name="viewport" content="width=device-width, initial-scale=1">
+<head>
+<title>IBS</title>
+<link rel="shortcut icon"
+	href="${pageContext.request.contextPath}/resources/img/logo/logo.png" />
    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+   <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+</head>
+  
    <body>
       <div class="w3-container">
          <h2 class="w3-center">Internet Banking System</h2>

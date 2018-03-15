@@ -1,9 +1,10 @@
 package com.ibs.bean.login;
 
 public class LoginBean {
-	
+
 	private String userName;
 	private String password;
+
 	/**
 	 * @return the userName
 	 */
