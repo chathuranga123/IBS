@@ -9,7 +9,7 @@ public class HomeController {
 		try{
 			//TODO
 		}catch(Exception e){
-			System.out.println("Exception1  :"+e);
+			System.out.println("Exceplktion1  :"+e);
 		}
 	}
 	
