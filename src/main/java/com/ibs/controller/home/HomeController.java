@@ -8,7 +8,19 @@ public class HomeController {
 		try{
 			//TODO
 		}catch(Exception e){
-			System.out.println("Excepti89898erter9sdfdsonn  :"+e);
+			System.out.println("Exception  :"+e);
+		}
+	}
+	
+	/**
+	 * setUserFavourites()
+	 */
+	public void setUserFavourites(){
+		try{
+			System.out.println("Exception  :");
+			//TODO
+		}catch(Exception e){
+			System.out.println("Exception  :"+e);
 		}
 	}
 	
@@ -19,4 +31,5 @@ public class HomeController {
 			System.out.println("Exception  :"+e);
 		}
 	}
+
 }
